@@ -1,65 +1,72 @@
-# 🚀 TU SENDA DIGITAL  
-Desarrollo Web | Ciberseguridad | Auditorías Profesionales  
+# 🌐 TU SENDA DIGITAL  
+**Transformamos tu presencia online. Protegemos tu marca.**  
 
-🧠 **Sobre nosotros**  
-En TU SENDA DIGITAL nos dedicamos a construir tu presencia digital con seguridad y estilo.  
-Somos una empresa especializada en:
+## 🚀 ¿Qué hacemos?
+En **TU SENDA DIGITAL** creamos soluciones digitales profesionales con foco en la seguridad.  
+Somos expertos en:
 
-- 🌐 Desarrollo de páginas web profesionales
-- 🛡️ Auditorías de ciberseguridad y análisis de vulnerabilidades
-- 🔍 Optimización del rendimiento y protección de la infraestructura web
+- 🖥️ **Desarrollo de páginas web modernas**
+- 🛡️ **Auditorías de ciberseguridad**
+- 🔐 **Protección y análisis de vulnerabilidades**
+- 📈 **Optimización de rendimiento y experiencia de usuario**
 
-Combinamos diseño moderno con seguridad sólida, para que tu negocio esté siempre online, siempre seguro.
+> 🧠 Combina diseño + seguridad + tecnología = TU SENDA DIGITAL
 
-🎯 Nuestra misión es guiarte en el mundo digital, ofreciendo soluciones a medida que protejan y potencien tu marca.
-
----
-
-🌟 **¿Por qué confiar en nosotros?**
-
-✅ Experiencia en entornos reales  
-✅ Mentalidad hacker para la protección de tu web  
-✅ Compromiso con la excelencia técnica y visual  
-
-🔗 **Visítanos:** [www.tusendadigital.es](https://www.tusendadigital.es)
+🎯 Nos dirigimos a **empresas**, **emprendedores** y **profesionales tech** que buscan destacar sin poner en riesgo su entorno digital.
 
 ---
 
-⚙️ **Tecnologías y herramientas que usamos**
+## 🛠️ Tecnologías y herramientas
 
-**🧱 Desarrollo Web**  
-- HTML5 / CSS3 / JavaScript  
-- React.js / Flask / Django  
-- Tailwind CSS / Bootstrap  
-- SEO & Performance optimization  
+**💻 Desarrollo y frameworks**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**🛡️ Ciberseguridad**  
-- Nmap · Nikto · Metasploit · Burp Suite  
-- OWASP ZAP · Wpscan · SQLmap  
-- Análisis de vulnerabilidades y hardening  
+**🔐 Seguridad y auditoría**  
+![Nmap](https://img.shields.io/badge/Nmap-4479A1?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=flat&logoColor=white)  
+![SQLmap](https://img.shields.io/badge/SQLmap-red?style=flat&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-2980b9?style=flat&logoColor=white)  
+![OSINT](https://img.shields.io/badge/OSINT-00b894?style=flat&logoColor=white)
 
-**📊 Análisis y Automatización**  
-- Python scripting  
-- Bash · Powershell · Cronjobs  
-- Web Scraping · OSINT · Reportes técnicos  
-
----
-
-📈 **GitHub Stats**  
-
-![TU SENDA DIGITAL GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-SENDA-DIGITAL&show_icons=true&theme=dark&hide_title=true)
-
-📊 **Lenguajes más usados**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-SENDA-DIGITAL&layout=compact&theme=dark)
+**🧰 DevOps & productividad**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-🌐 **Encuéntranos en**  
-🔗 [www.tusendadigital.es](https://www.tusendadigital.es)  
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-SENDA-DIGITAL&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-SENDA-DIGITAL&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU-SENDA-DIGITAL&theme=radical&hide_border=true&border_radius=6" width="60%" />
+</p>
+
+---
+
+## 🌎 Visítanos  
+📍 [www.tusendadigital.es](https://www.tusendadigital.es)  
 📧 contacto@tusendadigital.es  
-🔒 En constante evolución digital
+🔗 LinkedIn y redes sociales próximamente  
 
 ---
 
-> “La senda digital empieza con un clic, pero se protege con conocimiento.”  
+## 💬 ¿Colaboramos?
+
+Si estás buscando desarrollar una web segura, analizar tus sistemas o impulsar tu proyecto digital con garantías, **estás en el lugar adecuado**.
+
+📣 ¡Contáctanos y da el primer paso en tu senda digital!
+
+> "En un mundo digital, tu seguridad y tu presencia online no pueden dejarse al azar."
