@@ -11,77 +11,81 @@ En **TU SENDA DIGITAL** somos especialistas en soluciones digitales **a medida**
 
 ---
 
-## 💼 Servicios que ofrecemos
+## 💼 Servicios principales
 
-### 🔧 Desarrollo Web a Medida  
-Construimos páginas web únicas, adaptadas a tu negocio, optimizadas para SEO y preparadas para convertir visitantes en clientes.
+### 🖥️ Desarrollo Web a Medida  
+Páginas únicas, optimizadas para SEO y diseñadas para convertir visitantes en clientes.
 
 ### 🛒 Tiendas Online  
-Creamos ecommerce sólidos, escalables y 100% optimizados para vender. Integración de pasarelas de pago seguras y gestión intuitiva de productos.
+Ecommerce escalables, con pasarelas de pago seguras y gestión sencilla.
 
 ### 📣 Marketing Digital & SEO  
-Posicionamos tu web en buscadores, optimizamos campañas de captación y desarrollamos estrategias digitales para atraer tráfico cualificado.
+Atraemos tráfico cualificado y mejoramos tu posicionamiento en Google.
+
+### 🔐 Auditorías de Seguridad  
+Detectamos vulnerabilidades y protegemos tus sistemas frente a ciberataques.
 
 ### 🔄 Mantenimiento y Soporte  
-Nos encargamos de que tu web esté siempre actualizada, rápida, segura y al máximo rendimiento, para que tú te centres en tu negocio.
+Actualizaciones, backups, seguridad y velocidad garantizadas.
+
+### 🤖 Automatización con n8n  
+Diseñamos flujos automatizados para ahorrar tiempo y escalar tu negocio.
 
 ---
 
-## 🧩 ¿Cómo trabajamos en TU SENDA DIGITAL?
+## 🎯 Cómo trabajamos
 
-🎯 **Enfocados a resultados reales.**  
-Diseñamos proyectos personalizados que conectan con tu cliente ideal y convierten visitas en ventas.
+🔷 **Diseño personalizado**  
+Desde cero, sin plantillas genéricas. Adaptado a tu marca, sector y objetivos.
 
-✔️ **Diseño personalizado**  
-Cada web es diseñada desde cero, adaptada a tu marca, sector y objetivos. Sin plantillas genéricas.
+🔷 **Webs optimizadas**  
+Rendimiento, accesibilidad, velocidad y seguridad desde el primer clic.
 
-🚀 **Optimización total**  
-Velocidad, seguridad, accesibilidad y SEO on-page para posicionar bien en Google.
+🔷 **Marketing que convierte**  
+Estrategias reales para generar tráfico y convertir visitas en clientes.
 
-📈 **Marketing digital que genera clientes**  
-Te ayudamos a atraer tráfico cualificado y convertirlo en ventas con estrategias efectivas.
-
----
-
-## 🤖 Automatización con n8n
-
-En **TU SENDA DIGITAL** también diseñamos **automatizaciones personalizadas** con [n8n](https://n8n.io/), una potente herramienta de código abierto.
-
-✅ Automatiza tareas repetitivas  
-✅ Conecta Gmail, Telegram, Google Sheets, APIs y más  
-✅ Crea flujos visuales para ahorrar tiempo y ganar productividad
+🔷 **Automatización real con n8n**  
+Conecta Gmail, Telegram, Google Sheets, APIs y más para escalar tu productividad.
 
 ---
 
 ## 🛠️ Tecnologías que usamos
 
-### 🌐 Desarrollo Web  
+### 💻 Frontend & UI/UX
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛡️ Ciberseguridad  
+### 🧠 Backend & Automatización
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF3E36?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+### 🛡️ Ciberseguridad y pentesting
+
 ![Nmap](https://img.shields.io/badge/Nmap-4479A1?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF8800?style=for-the-badge)
 ![SQLmap](https://img.shields.io/badge/SQLmap-red?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3e8ec1?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-00b894?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-2c3e50?style=for-the-badge)
+![Wpscan](https://img.shields.io/badge/WPScan-343a40?style=for-the-badge)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-black?style=for-the-badge)
 
-### 🤖 Automatización  
-![n8n](https://img.shields.io/badge/n8n-EF3E36?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Python Scripts](https://img.shields.io/badge/Python_Scripts-blue?style=for-the-badge)
+### ⚙️ Infraestructura, DevOps & CI/CD
 
-### ⚙️ Infraestructura y DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VPS](https://img.shields.io/badge/VPS%20Deploy-0052CC?style=for-the-badge)
 
 ---
 
@@ -98,18 +102,19 @@ En **TU SENDA DIGITAL** también diseñamos **automatizaciones personalizadas** 
 
 ---
 
-## 🌐 Contacto
+## 📬 Contacto directo
 
-📍 **Web:** [www.tusendadigital.es](https://www.tusendadigital.es)  
-📧 **Email:** contacto@tusendadigital.es  
-💼 **GitHub:** [@TU-SENDA-DIGITAL](https://github.com/TU-SENDA-DIGITAL)
+- 🌐 Sitio web: [https://tusendadigital.com/](https://tusendadigital.com/)
+- 📧 Correo: contacto@tusendadigital.com
+- 💼 GitHub: [@TU-SENDA-DIGITAL](https://github.com/TU-SENDA-DIGITAL)
 
 ---
 
-## 🤝 ¿Trabajamos juntos?
+## 🤝 ¿Hablamos?
 
-Si quieres una web profesional, segura y lista para crecer, o necesitas automatizar procesos o proteger tu negocio digital...
+🎯 Si buscas una **web profesional, segura y automatizada**, o necesitas **auditar y proteger tu negocio digital**, somos tu equipo.
 
-> ✉️ ¡Escríbenos y empieza tu senda digital!
+> ✨ TU SENDA DIGITAL: Tu web. Tu escudo. Tu marca.  
+> _Desarrollamos. Protegemos. Automatizamos._
 
 ---
